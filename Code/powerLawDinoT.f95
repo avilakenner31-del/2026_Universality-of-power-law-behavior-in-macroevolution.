@@ -1,4 +1,4 @@
-program model1
+program powerLawDinoT
 implicit none
 
 integer, parameter:: stps=100000, N=256
